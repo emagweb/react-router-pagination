@@ -4,9 +4,9 @@
   "description": "A React Router Pagination component",
   "main": "./index.js",
   "author": {
-    "name": "Jonathan Perry for Sequence Media Limited",
-    "email": "sequencemedia@sequencemedia.net",
-    "url": "http://www.sequencemedia.net"
+    "name": "Antonina Osypenko",
+    "email": "t.osipenko@unkd.com.ua",
+    "url": "https://slashdevs.online"
   },
   "license": "MIT",
   "engines": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sequencemedia/react-router-pagination.git"
+    "url": "git://github.com/emagweb/react-router-pagination.git"
   },
   "scripts": {
     "prepublishOnly": "cross-env NODE_ENV=production npm run build",
